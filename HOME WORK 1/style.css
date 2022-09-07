@@ -1,0 +1,87 @@
+@font-face {
+    font-family: pacifico;
+    src: url(./fonts/Pacifico/Pacifico-Regular.ttf);
+}
+@font-face {
+    font-family: readex-pro;
+    src: url(./fonts/readex-pro/fonts/ttf/ReadexPro-Medium.ttf);
+}
+body, html{
+    height: 100%;
+    background-image:url(./images/jumbotron-img\ 1.png);
+
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+   
+
+.logo-and-nav{
+    padding-top: 20px;
+    display: flex;
+   
+ 
+  
+}
+.logo-and-nav h1{
+   
+    font-family: pacifico;
+   margin-left: 100px;
+Line-height: 56px;
+Line-height: 100%;
+Align: Center;
+color: white;
+}
+.nav{
+    margin-left: 900px;
+display: flex;
+align-content: center;
+margin-top: 30px;
+}
+.nav a{
+    margin-right: 100px;
+    text-decoration: none;
+    color: white;
+    font-family: readex-pro;
+}
+/* .discover-your-place{
+    margin-top: 250px;
+    
+   
+    }
+    .discover-your-place h3{
+        font-size: 24px;
+        margin-left: 665px;
+        font-family: readex-pro;
+        color: white;
+        display: inline;
+    }
+    .discover-your-place h1{
+        margin-left: 290px;
+        font-family: readex-pro;
+        font-size: 60px;
+        color: white;
+    }
+    .discover-your-place a{
+        text-decoration: none;
+      
+        font-family: readex-pro;
+        font-size: 20px;
+        color: white;
+
+    } */
+    /* .button a{
+height: 38px;
+left: 675px;
+top: 403px;
+border: none;
+background: #2B6F3E;
+border-radius: 8px;
+    } */
+    .icons{
+        margin-left: 920px;
+        margin-top: 30px;
+    }
